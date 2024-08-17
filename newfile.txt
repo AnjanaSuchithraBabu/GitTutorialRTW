@@ -1,1 +1,2 @@
 "Some initial content"
+"Second time"

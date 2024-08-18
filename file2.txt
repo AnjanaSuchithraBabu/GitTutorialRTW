@@ -1,1 +1,2 @@
 This is a new text file for develop branch. File name changed.
+Adding new text to this file.

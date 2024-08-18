@@ -1,0 +1,1 @@
+Hi testing a file with white space to check the pre-commit hook
